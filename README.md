@@ -1,4 +1,5 @@
-#  Mean and variance of a discrete  distribution
+# Experiment-1:  Mean and variance of a discrete  distribution
+# Date: 28/09/24
 
 
 # Aim : 
